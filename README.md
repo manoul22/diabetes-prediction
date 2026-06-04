@@ -9,4 +9,15 @@ https://diabetes-prediction-production-08c0.up.railway.app/
 
 you should add your parameters and the program would predict the level of diabetic risk for you.
 
+**Required Libraries**
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+
 Done by: Manoul Mourad Fayez
+ID:221001797
