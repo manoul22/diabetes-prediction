@@ -37,5 +37,5 @@ models results are shown in plot 10
 Done by: Manoul Mourad Fayez
 ID:221001797
 
-**Important note: I had a problem regarding the app, and streamlit had blocked my other (original repo) thus, i had to use another account and that's why the submission appear to be late. the original repo link:**
+**Important note: I had a problem regarding the app(it was working for a week before streamlit changed its sklearn version), and streamlit had blocked my other (original repo) thus, i had to use another account and edit the submission that's why the submission appear to be late. the original repo link:**
 https://github.com/ManoulMourad/diabetes-prediction-app
